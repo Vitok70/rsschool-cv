@@ -42,7 +42,7 @@
 ### function multiply(a, b){
 ###       return a * b;
 ###        }
-------------------
+***
 ## **Language**
 + ### English - *A2, continue to study* 
 + ### Russian - *native*
