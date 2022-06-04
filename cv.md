@@ -34,11 +34,11 @@
 ## **Courses**
 + ### RS School Course "JavaScript/Front-end. Stage0" (*in progress*)
 + ### Financial Markets. Yale University. Coursera Verified Certificates. 
-  [https://www.coursera.org/account/accomplishments/verify/XG45YL4L64]
+  https://www.coursera.org/account/accomplishments/verify/XG45YL4L64
 + ### Financial Markets and Institutions, Higher School of Economics of Russia, Coursera, *Score - 96,7%*
 -----------------------------
 ## **Code example:** 
-[https://www.codewars.com/kata/50654ddff44f800200000004/train/javascript]
+https://www.codewars.com/kata/50654ddff44f800200000004/train/javascript
 ~~~
  function multiply(a, b){
        return a * b;
