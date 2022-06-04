@@ -33,6 +33,10 @@
 + ### Coaching of client managers
 + ### MS Excel, MS Word, Smart Factory, MetaTrader 4, JForex, SC-Bank NT
 -------------------------------
+## **Courses**
++ ### RS School Course "JavaScript/Front-end. Stage0" (*in progress*)
++ ### Financial Markets. Yale University. Coursera Verified Certificates. *https://www.coursera.org/account/accomplishments/verify/XG45YL4L64*
++ ### Financial Markets and Institutions, Higher School of Economics of Russia, Coursera, Score - 96,7%
 ## **Language**
 + ### English - *A2, continue to study* 
 + ### Russian - *native*
