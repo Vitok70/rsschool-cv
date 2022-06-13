@@ -39,13 +39,6 @@ body {
   border-radius: 100px;
 }
 
-/* .header-container {
-  display: flex;
-  justify-content: end;
-  align-items: center;
-  height: 100px;
-  color: blue;
-  } */
 
 .nav-list {
   display: flex;
@@ -65,13 +58,11 @@ html {
   scroll-behavior: smooth;
 }
 .left2 {
-/* margin-left: 150px; */
 text-decoration: none;
 color:blue
 }
 
 .rss2 {
-  /* margin-right: 150px; */
   width: 100px;
 }
 
