@@ -1,17 +1,31 @@
+@font-face{
+  font-family: 'Roboto';
+  src:url(/assets/fonts/Roboto-Regular.ttf);
+}
+
 body {
   min-height: 100vh;
   margin: 0;
   padding: 0;
-  font-family: 'Roboto', sans-serif;
   display: flex;
   flex-direction: column;
   justify-content: space-between;
+  font-family: 'Roboto';
+  }
+  
+  * {
+    box-sizing: border-box;
+  }
+
+  html {
+    scroll-behavior: smooth;
   }
 
 .header-container {
     max-width: 1440;
     margin: 0 auto;
     background-color: limegreen;
+    font-size: 20px;
   }
   
 .footer-container {
@@ -27,54 +41,78 @@ body {
 .main-container {
   max-width: 1440;
   margin: 0 auto;
+  padding-left: 50px;
+  padding-right: 50px;
 }
 
-* {
-  box-sizing: border-box;
-}
-
-.foto {
-  margin-left: 100px;
-  width: 150px;
-  border-radius: 100px;
-}
-
-/* .header-container {
+.profile-container{
   display: flex;
-  justify-content: end;
+  justify-content: center;
+}
+
+section#Profile{
+  display: flex;
+  justify-content: space-between;
   align-items: center;
-  height: 100px;
-  color: blue;
-  } */
+}
+
+.profile-text{
+  text-align: center;
+  line-height: 500%;
+  margin: 0 100px; 
+  justify-content: space-between;
+  letter-spacing: 10px; 
+}
+.foto {
+  width: 150px;
+  border-radius: 50px;
+} 
 
 .nav-list {
   display: flex;
-  justify-content: end;
+  justify-content: flex-end;
   align-items: center;
   list-style-type: none;
   height: 100px;
-  color: blue;
-  } 
+} 
 
 .nav-link {
   padding: 0 8px;
   text-decoration: none;
+  font-size: 21px;
+  color:floralwhite;
   }
 
-html {
-  scroll-behavior: smooth;
-}
+  a.nav-link:hover {
+    text-decoration: underline;
+  }
+
 .left2 {
-/* margin-left: 150px; */
 text-decoration: none;
 color:blue
 }
 
 .rss2 {
-  /* margin-right: 150px; */
-  width: 100px;
+  padding-right: 50px;
+  width: 150px;
 }
 
 h1 {
-  font-size: 24px;
+  font-size: 36px;
+}
+
+.footer-gh{
+  padding-left: 50px;
+  text-decoration: none;
+  font-size: 21px;
+  color: floralwhite;
+}
+
+a.footer-gh:hover{
+text-decoration: underline;
+}
+
+.text{
+  font-size: 21px;
+  color: floralwhite;
 }
