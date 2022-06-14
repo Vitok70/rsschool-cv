@@ -4,8 +4,8 @@
     <meta charset="UTF-8">
     <link rel="stylesheet" href="style.css">
     <link rel="icon" href="./assets/Avatar.ico">
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link href="https://fonts.googleapis.com/css2?family=Roboto&family=Roboto+Serif:opsz@8..144&display=swap" rel="stylesheet">
+    <!--<link rel="preconnect" href="https://fonts.googleapis.com">
+    <link href="https://fonts.googleapis.com/css2?family=Roboto&family=Roboto+Serif:opsz@8..144&display=swap" rel="stylesheet">-->
     <title>CV Vitok</title>
 </head>
   <body>
@@ -26,22 +26,28 @@
       </nav>
     </header>
     <main>
-      <div class="maincontainer">
+      <div class="main-container">
+        <div class="profile-container">
           <section class="section" id="Profile"> 
-                <h1>Vitaliy Okunev</h1>
-                <p>Banker</p>
-                <img src="./assets/img/MyFoto.jpeg" width="100" alt="my foto" >
+             <img class="foto" src="./assets/img/MyFoto.jpeg" alt="my foto" >
+                     
+              <div class="profile-text">
+                  <h1>Vitaliy Okunev</h1><h2>Future Front-End Developer</h2>
+              </div>
           </section>
-          <section class="section" id="Contacts">
-                  <h2>Contacts</h2>
-                  <ul>
-                    <li>Location: Minsk, Belarus</li>
-                    <li>Phone: +375 29 390 09 31</li>
-                    <li>E-mail: vitokunev70@gmail.com</li>
-                    <li>GitHub/Discord: Vitok70</li>
-                  </ul>
-          </section>
-          <section class="section" id="Aboutme">
+        </div>
+        <section class="section" id="Contacts">
+              <h2>Contacts</h2>
+              <ul>
+                <li>Location: Minsk, Belarus</li>
+                <li>Phone: +375 29 390 09 31</li>
+                <li>E-mail: vitokunev70@gmail.com</li>
+                <li>GitHub/Discord: Vitok70</li>
+              </ul>
+        </section>
+       
+          
+        <section class="section" id="Aboutme">
               <h2>About me</h2>
               <p>A qualified bank manager with excellent communication skills, experience in managing people and successful negotiations with corporate clients. Currently I am studying a program for designing robots to automate my trading operations in international financial markets. I like to get new knowledge and use it in practical work and life. Having analytical thinking and mathematical education, I want to realize myself as a programmer in the field of Frontend development. Of course, this is a serious challenge to me. But thanks to RS School, I really want to take this chance and become a professional in an interesting field.</p> 
             </section>
@@ -103,8 +109,8 @@
 
     <footer>
       <div class="footer-container">
-        <div class="left1">
-          <a href="https://github.com/Vitok70" class="left2">Vitok70(GitHub)</a>
+        <div class="footer-left">
+          <a href="https://github.com/Vitok70" class="footer-gh">Vitok70(GitHub)</a>
         </div>  
         <div class="text">Created in 2022</div>
         <div class="rss1">
