@@ -22,14 +22,14 @@ body {
   }
 
 .header-container {
-    max-width: 1440;
+    max-width: 1440px;
     margin: 0 auto;
     background-color: limegreen;
     font-size: 20px;
   }
   
 .footer-container {
-    max-width: 1440;
+    max-width: 1440px;
     margin: 0 auto;
     height: 100px;
     display: flex;
@@ -39,7 +39,7 @@ body {
   }
 
 .main-container {
-  max-width: 1440;
+  max-width: 1440px;
   margin: 0 auto;
   padding-left: 50px;
   padding-right: 50px;
@@ -68,6 +68,11 @@ section#Profile{
   border-radius: 50px;
 } 
 
+nav.nav {
+  display: flex;
+  justify-content: flex-end;
+}
+
 .nav-list {
   display: flex;
   justify-content: flex-end;
@@ -86,11 +91,6 @@ section#Profile{
   a.nav-link:hover {
     text-decoration: underline;
   }
-
-.left2 {
-text-decoration: none;
-color:blue
-}
 
 .rss2 {
   padding-right: 50px;
