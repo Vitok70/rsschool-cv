@@ -35,7 +35,8 @@ Having analytical thinking and mathematical education, I want to realize myself 
 
 ## **Courses**
 
-+ RS School Course "JavaScript/Front-end. Stage0" (*in progress*)
++ RS School Course "JavaScript/Front-end. Stage1" (*in progress*)
++ RS School Course "JavaScript/Front-end. Stage0" (*Finished with Score 87%*)
 + Financial Markets. Yale University. Coursera. 
   [Verified Certificate](https://www.coursera.org/account/accomplishments/verify/XG45YL4L64)
 + Financial Markets and Institutions, Higher School of Economics of Russia, Coursera, Score - 96,7%
