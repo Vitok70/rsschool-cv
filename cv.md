@@ -27,6 +27,7 @@ Having analytical thinking and mathematical education, I want to realize myself 
 
 ## **Skills**
 
++ HTML, CSS, Java-Script, VSCode, GitHub, Codewars 8-5kyu
 + Financial analysis
 + Active sales of banking products
 + Successful negotiations with corporate clients
@@ -56,6 +57,10 @@ Having analytical thinking and mathematical education, I want to realize myself 
   return (`${hours}:${minutes}`);
  }
 ~~~
+## **Projects**
++ https://rolling-scopes-school.github.io/vitok70-JSFEPRESCHOOL2022Q2/momentum/
++ https://rolling-scopes-school.github.io/vitok70-JSFEPRESCHOOL2022Q2/travel/
++ https://vitok70.github.io/eldritch-codejam/
 
 ## **Language**
 
