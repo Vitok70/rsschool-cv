@@ -27,6 +27,7 @@ Having analytical thinking and mathematical education, I want to realize myself 
 
 ## **Skills**
 
++ HTML, CSS, Java-Script, VSCode, GitHub, Codewars 8-5kyu
 + Financial analysis
 + Active sales of banking products
 + Successful negotiations with corporate clients
@@ -43,13 +44,23 @@ Having analytical thinking and mathematical education, I want to realize myself 
 
 ## **Code example:**
 
-#### [Task from Codewars](https://www.codewars.com/kata/50654ddff44f800200000004/train/javascript)
+#### [Task from Codewars](https://www.codewars.com/kata/59752e1f064d1261cb0000ec/solutions/javascript?filter=me&sort=best_practice&invalids=false)
 
 ~~~
- function multiply(a, b){
-       return a * b;
-        }
+ var whatTimeIsIt = function(angle) {
+  if (angle < 30){ angle +=360; }
+  let minutes = angle *2;
+  let hours = Math.trunc(minutes / 60);
+        minutes = Math.floor(minutes % 60);
+        hours = ('0'+ hours).slice(-2);
+        minutes = ('0'+ minutes).slice(-2);
+  return (`${hours}:${minutes}`);
+ }
 ~~~
+## **Projects**
++ https://rolling-scopes-school.github.io/vitok70-JSFEPRESCHOOL2022Q2/momentum/
++ https://rolling-scopes-school.github.io/vitok70-JSFEPRESCHOOL2022Q2/travel/
++ https://vitok70.github.io/eldritch-codejam/
 
 ## **Language**
 
