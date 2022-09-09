@@ -104,7 +104,7 @@ h1 {
 .footer-gh{
   padding-left: 50px;
   text-decoration: none;
-  font-size: 21px;
+  font-size: 10px;
   color: floralwhite;
 }
 
@@ -115,4 +115,13 @@ text-decoration: underline;
 .text{
   font-size: 21px;
   color: floralwhite;
+}
+
+.github{
+width: 60px;
+}
+
+.footer-left{
+  display: flex;
+  align-items: center;
 }
